@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "596f0f527884faddf5b486e98a60a7a882cd25b6"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "EncogCSharp/1.0.0": {
+        "dependencies": {
+          "Microsoft.VisualStudio.UnitTesting": "11.0.50727.1",
+          "encog-dotnet-core": "3.4.0"
+        },
+        "runtime": {
+          "EncogCSharp.dll": {}
+        }
+      },
+      "encog-dotnet-core/3.4.0": {
+        "runtime": {
+          "lib/encog-core-cs.dll": {}
+        }
+      },
+      "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncogCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "encog-dotnet-core/3.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WUacWTVw9zGQlmYVAKdULn5pAG2XcnfhVaYNURLNBZtsRgoXRmXORH0HJigaXaT+x61cp/6XoOcajd5X++wLtg==",
+      "path": "encog-dotnet-core/3.4.0",
+      "hashPath": "encog-dotnet-core.3.4.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DoqQ6Zl7GcytRa1isWv20MyV1znFRDje6k/y3edbew3Qx/Z1r5Cf6rBktD7lGxN97d2VVC5RzdFHw+dci9lsMw==",
+      "path": "microsoft.visualstudio.unittesting/11.0.50727.1",
+      "hashPath": "microsoft.visualstudio.unittesting.11.0.50727.1.nupkg.sha512"
+    }
+  }
+}

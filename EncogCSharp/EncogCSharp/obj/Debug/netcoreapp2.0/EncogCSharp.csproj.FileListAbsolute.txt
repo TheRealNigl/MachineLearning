@@ -1,0 +1,11 @@
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\bin\Debug\netcoreapp2.0\EncogCSharp.deps.json
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\bin\Debug\netcoreapp2.0\EncogCSharp.runtimeconfig.json
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\bin\Debug\netcoreapp2.0\EncogCSharp.runtimeconfig.dev.json
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\bin\Debug\netcoreapp2.0\EncogCSharp.dll
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\obj\Debug\netcoreapp2.0\EncogCSharp.csprojResolveAssemblyReference.cache
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\obj\Debug\netcoreapp2.0\EncogCSharp.csproj.CoreCompileInputs.cache
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\obj\Debug\netcoreapp2.0\EncogCSharp.AssemblyInfoInputs.cache
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\obj\Debug\netcoreapp2.0\EncogCSharp.AssemblyInfo.cs
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\bin\Debug\netcoreapp2.0\EncogCSharp.pdb
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\obj\Debug\netcoreapp2.0\EncogCSharp.dll
+D:\Documents\AI Programming Class\Encog\EncogCSharp\EncogCSharp\obj\Debug\netcoreapp2.0\EncogCSharp.pdb
