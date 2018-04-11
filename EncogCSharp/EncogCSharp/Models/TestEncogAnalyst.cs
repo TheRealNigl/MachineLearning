@@ -7,7 +7,7 @@ namespace EncogCSharp
     {
         public void TestIrisClassificationFF()
         {
-            var test = new AnalystTestingUtility("Encog.Resources.iris.csv");
+            var test = new AnalystTestingUtility("EncogCSharp.Resources.iris.csv");
             test.Wizard(AnalystGoal.Classification, WizardMethodType.FeedForward, true);
 
             test.ValidateDataField(0, 7.900000, 5.843333, 4.300000, 0.825301, "sepal_l", false, true, false, true);
@@ -52,7 +52,7 @@ namespace EncogCSharp
         
         public void TestIrisRegressionFF()
         {
-            var test = new AnalystTestingUtility("Encog.Resources.iris.csv");
+            var test = new AnalystTestingUtility("EncogCSharp.Resources.iris.csv");
             test.Wizard(AnalystGoal.Regression, WizardMethodType.FeedForward, true);
 
             test.ValidateDataField(0, 7.900000, 5.843333, 4.300000, 0.825301, "sepal_l", false, true, false, true);

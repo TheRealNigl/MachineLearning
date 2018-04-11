@@ -14,12 +14,12 @@ namespace EncogCSharp
         
         public void TestRegression()
         {
-            FileInfo rawFile = TEMP_DIR.CreateFile("simple.csv");
-            FileInfo egaFile = TEMP_DIR.CreateFile("simple.ega");
-            FileInfo outputFile = TEMP_DIR.CreateFile("simple_output.csv");
+            FileInfo rawFile = TEMP_DIR.CreateFile("EncogCSharp/Resources/simple.csv");
+            FileInfo egaFile = TEMP_DIR.CreateFile("EncogCSharp/Resources/simple.ega");
+            FileInfo outputFile = TEMP_DIR.CreateFile("EncogCSharp/Resources/simple_output.csv");
 
-            FileUtil.CopyResource("Encog.Resources.simple.csv", rawFile);
-            FileUtil.CopyResource("Encog.Resources.simple-r.ega", egaFile);
+            FileUtil.CopyResource("EncogCSharp/Resources/simple.csv", rawFile);
+            FileUtil.CopyResource("EncogCSharp/Resources/simple-r.ega", egaFile);
 
             EncogAnalyst analyst = new EncogAnalyst();
             analyst.Load(egaFile);

@@ -1,5 +1,6 @@
 using System;
 using System.IO;
+using Encog.App.Analyst;
 using Encog.App.Analyst.Report;
 using Encog.App.Analyst.Script;
 using Encog.App.Analyst.Script.Normalize;
@@ -9,11 +10,10 @@ using Encog.ML;
 using Encog.ML.Data;
 using Encog.Persist;
 using Encog.Util;
-using Encog.Util.File;
 using Encog.Util.Simple;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Encog.App.Analyst
+namespace EncogCSharp
 {
     public class AnalystTestingUtility
     {
